@@ -1,6 +1,6 @@
 <?php
 
-require "./vendor/autoload.php";
+require "../vendor/autoload.php";
 
 //  定义stream 名称
 const STREAM = "RegisterUsers";

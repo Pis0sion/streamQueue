@@ -3,7 +3,7 @@
 
 use Pis0sion\redis\entity\Streams;
 
-require "./vendor/autoload.php";
+require "../vendor/autoload.php";
 
 const STREAM = "RegisterUsers";
 
