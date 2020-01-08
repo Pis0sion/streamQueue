@@ -1,10 +1,10 @@
 {
     "name": "pis0sion/com.redis.queue",
     "description": "queue by redis type stream",
-    "type": "project",
+    "type": "library",
     "require": {
         "php": ">=7.1.0",
-      "ext-redis": "*"
+        "ext-redis": "*"
     },
     "license": "MIT",
     "authors": [
