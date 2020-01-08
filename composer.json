@@ -1,0 +1,22 @@
+{
+    "name": "pis0sion/com.redis.queue",
+    "description": "queue by redis type stream",
+    "type": "project",
+    "require": {
+        "php": ">=7.1.0",
+      "ext-redis": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pis0sion",
+            "email": "zihuang2010@126.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Pis0sion\\redis\\": "src"
+        }
+    }
+}
